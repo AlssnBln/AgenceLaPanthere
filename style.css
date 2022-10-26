@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-  background: url("img/texture-paper.png");
+  background: url("img/texture-paper.avif");
   background-size: 280px 280px;
 }
 
@@ -993,8 +993,8 @@ h4 {
   }
 
   .navbar-brand img {
-    max-height: 40px;
-    width: auto;
+      height: 30px;
+      width: 20px;
   }
 
   .nav-invert .navbar-header {
